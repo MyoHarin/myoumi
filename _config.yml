@@ -150,8 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "myoumi" # change this to myoumi when deployed
-# bundle exec jekyll s --watch -d "_site/myoumi"
+baseurl: "/myoumi" # change this to myoumi when deployed | empty when in development
 
 # ------------ The following options are not recommended to be modified ------------------
 
